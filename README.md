@@ -1,34 +1,55 @@
-## Hi there 👋 I'm [Your Name]!
+## Guten tag!
 
 Welcome to my GitHub profile! I'm a passionate and curious developer always looking to improve and learn new things.
 
 ### 🚀 About Me
 
 - 🎓 I'm currently studying Applied Mathematics and Computer Science at UNAM FES Acatlán.
-- 💻 I love working on web development, backend systems, and cloud technologies.
-- 🌱 Currently learning more about API security, Firebase, and modern JavaScript frameworks like Next.js.
-- 👯 I'm open to collaborating on open-source projects, especially those focused on education or developer tools.
+- 💻 I love working on web development and backend systems.
+- 🌱 Currently learning more about API security and modern JavaScript frameworks like Next.js.
 - 🧠 I enjoy solving problems and building projects that create real impact.
+- 🌍 Languages:  
+  - **Native Spanish speaker**  
+  - **English:** Intermediate  
+  - **German:** Currently learning  
+  - **Future goals:** I’d love to also learn **French**, **Italian**, and **Norwegian**
 
 ### 🛠 Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python, Java, C++
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, Firebase Functions
-- **Database:** Firestore, PostgreSQL
-- **Tools:** Git, GitHub, Vite, Figma, Postman
+- **Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  </a>
+</p>
 
-### 📌 Featured Projects
+- **Frontend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs" />
+  </a>
+</p>
 
-- 🔐 **Auth & Course System** – A student and teacher registration platform using Firebase Authentication and Firestore.
-- 📝 **Class Logs App** – A logging tool for teachers to register class summaries, viewable by students.
-- 📚 **Course Manager** – Web UI to create, assign, and edit courses with calendar support.
+- **Database**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
 
-### 📫 How to reach me
+- **Cloud Servers**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+</p>
 
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio website: [yourdomain.com](https://yourdomain.com) _(optional)_
+- **Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+  </a>
+</p>
 
 ### ⚡ Fun Fact
 
