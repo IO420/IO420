@@ -57,4 +57,4 @@ I love cats, coffee, and finding elegant solutions to complex problems 🐱☕�
 
 ---
 
-Thanks for visiting! Feel free to check out my repositories and reach out if you'd like to connect or collaborate!
+Thanks for visiting! Feel free to check out my repositories and reach out if you'd like to connect or collaborate!:P
